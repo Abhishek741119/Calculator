@@ -25,7 +25,7 @@ screen.pack()
 frame=t.Frame()
 frame.pack()
 
-buttonlist="123 C456+-789*/(0)^="
+buttonlist="123.C456+-789*/(0)^="
 count=0
 packet=[]
 for i in range(1,5):
